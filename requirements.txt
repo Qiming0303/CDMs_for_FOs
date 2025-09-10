@@ -1,0 +1,15 @@
+# Core dependencies
+numpy==1.26.4
+matplotlib==3.9.2
+
+# Optimization (Linear Programming)
+PuLP==3.2.2
+
+# Physics simulation
+pybullet==3.2.5
+
+# Machine Learning (Q-Learning baseline, using tabular Q-learning)
+# (no heavy ML libraries required)
+
+# For reproducibility in GA and RL
+tqdm==4.66.5
